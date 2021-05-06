@@ -36,5 +36,5 @@ Pillow==7.2.0
 requests==2.24.0
 urllib3==1.25.10
 Werkzeug==1.0.1
-opencv-python==4.1.2.30
+opencv-python
 openpyxl==2.5.9
