@@ -20,7 +20,8 @@ sklearn-pandas==1.8.0
 SoundFile==0.10.3.post1
 SQLAlchemy==1.4.7
 sqlparse==0.4.1
-torch==1.8.1+cu101
+torch
+torchvision
 torchsummary==1.5.1
 torchtext==0.9.1
 uritemplate==3.0.1
