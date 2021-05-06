@@ -12,7 +12,7 @@ pickleshare==0.7.5
 python-apt==0.0.0
 python-speech-features==0.6
 python-utils==2.5.6
-scikit-learn==0.22.2.post1
+scikit-learn
 scipy
 seaborn==0.11.1
 sklearn==0.0
@@ -20,6 +20,7 @@ sklearn-pandas==1.8.0
 SoundFile==0.10.3.post1
 SQLAlchemy==1.4.7
 sqlparse==0.4.1
+cython
 torch
 torchvision
 torchsummary==1.5.1
